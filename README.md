@@ -1,0 +1,2 @@
+# ETH-MISSING
+Please help me! I'm new to MIST wallet and I'm trying to participate some crowdsales via MIST. I send 120 ETH to my new MIST account hours ago, from Poloniex, have not receive them yet. Could you please help me to find my ETH? I want to participate the BAT crowdsale. The address below is my new mist account 1, I send my 120 ETH to the address below:Address: 0xe598026b97418b988b1f5c1d39db8049d248040a Txid: 0x8c693da92a74093befc31e454dedbd644a646982e5d79b217190b148fa3215e3
